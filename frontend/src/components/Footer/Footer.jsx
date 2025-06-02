@@ -26,9 +26,9 @@ const Footer = () => {
               />
               <div className="flex flex-col mt-8 text-center md:text-left">
                 <p className="mb-2">Address: 123 Travel St, City, Country</p>
-                <p className="mb-2">Phone: +1 234 567 890</p>
+                <p className="mb-2">Phone: +91 1234562345</p>
                 <p className="mb-2">Email: info@tripstravels.com</p>
-                <p>&copy; 2024 Trips Travels. All rights reserved.</p>
+                <p>2025 Trips Travels. 4th Semester Mini Project</p>
               </div>
             </div>
 
